@@ -10,7 +10,4 @@ cl main.cpp && .\main.exe
 ```
 
 ## How to play
-W = UP
-A = LEFT
-S = DOWN
-D = RIGHT
+W = UP\n A = LEFT\n S = DOWN\n D = RIGHT
