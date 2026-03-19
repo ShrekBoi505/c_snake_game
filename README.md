@@ -7,3 +7,10 @@ A simple implemention of the classic Snake Game
 3) Run the following command to compile and execute in one line:
 ```sh
 cl main.cpp && .\main.exe
+```
+
+## How to play
+W = UP
+A = LEFT
+S = DOWN
+D = RIGHT
