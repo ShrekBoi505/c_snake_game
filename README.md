@@ -5,5 +5,5 @@ A simple implemention of the classic Snake Game
 1) Open up the Developer Command Prompt for VS
 2) Go to the location of the main.cpp file
 3) Run the following command to compile and execute in one line:
-'''sh
+```sh
 cl main.cpp && .\main.exe
